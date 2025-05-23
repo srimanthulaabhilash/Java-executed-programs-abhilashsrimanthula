@@ -1,0 +1,2 @@
+read the csv content and filter the records which are <=300
+read the csv content and filter the records which are >300 collect the values to hashmap name and grade
